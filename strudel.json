@@ -1,5 +1,8 @@
 {
 "_base": "https://raw.githubusercontent.com/emptyflash/samples/main/",
+"gamecube": [
+"gamecube/gamecube.wav"
+],
 "mridm_bass": [
 "mridm_bass/K02Basyn120A-01.wav",
 "mridm_bass/K02Basyn120A-02.wav",
