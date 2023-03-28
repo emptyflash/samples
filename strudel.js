@@ -1,4 +1,5 @@
 await loadOrc('github:kunstmusik/csound-live-code/master/livecode.orc')
+
 if (!document.getElementById('hydra-canvas')) {
   await import('https://unpkg.com/hydra-synth')
   const testCanvas = document.getElementById('test-canvas')
@@ -8,6 +9,7 @@ if (!document.getElementById('hydra-canvas')) {
   new Hydra({ canvas:hydraCanvas, detectAudio: false })
   s0.init({src: testCanvas})
 }
+
 async function riffusion(sampleName, prompt, seed, steps, overrides) {
   overrides = overrides || {}
   steps = steps || 4;
@@ -61,3 +63,4 @@ async function riffusion(sampleName, prompt, seed, steps, overrides) {
     }
   }
 }
+window.riffusion = riffusion
