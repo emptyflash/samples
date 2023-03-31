@@ -58,21 +58,21 @@
 "naltroc_sd/snare-9.wav"
 ],
 "notify": [
-"notify/discord.mp3",
-"notify/iphone.mp3",
-"notify/iphone_msg_sent.mp3",
-"notify/knock_brush.mp3",
-"notify/popcorn.ogg"
+"notify/01_discord.mp3",
+"notify/02_slack.mp3",
+"notify/03_iphone_msg_sent.mp3",
+"notify/04_android_popcorn.ogg",
+"notify/05_iphone.mp3"
 ],
 "skeletor": [
 "skeletor/skeletor.wav"
 ],
 "wake": [
-"wake/bright_morning.ogg",
-"wake/iphone_13_original.mp3",
-"wake/iphone_alarm.mp3",
-"wake/iphone_x.mp3",
-"wake/samsung_galaxy_alarm.mp3",
-"wake/the_big_adventure.ogg"
+"wake/01_bright_morning.ogg",
+"wake/02_android_the_big_adventure.ogg",
+"wake/03_iphone_13_original.mp3",
+"wake/04_samsung_galaxy_alarm.mp3",
+"wake/05_iphone_x.mp3",
+"wake/06_iphone_alarm.mp3"
 ]
 }
