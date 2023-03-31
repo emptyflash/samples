@@ -57,7 +57,22 @@
 "naltroc_sd/snare-8.wav",
 "naltroc_sd/snare-9.wav"
 ],
+"notify": [
+"notify/discord.mp3",
+"notify/iphone.mp3",
+"notify/iphone_msg_sent.mp3",
+"notify/knock_brush.mp3",
+"notify/popcorn.ogg"
+],
 "skeletor": [
 "skeletor/skeletor.wav"
+],
+"wake": [
+"wake/bright_morning.ogg",
+"wake/iphone_13_original.mp3",
+"wake/iphone_alarm.mp3",
+"wake/iphone_x.mp3",
+"wake/samsung_galaxy_alarm.mp3",
+"wake/the_big_adventure.ogg"
 ]
 }
