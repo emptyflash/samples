@@ -1,7 +1,13 @@
 {
 "_base": "https://raw.githubusercontent.com/emptyflash/samples/main/",
+"doppler2": [
+"doppler2/Doppler2.wav"
+],
 "gamecube": [
 "gamecube/gamecube.wav"
+],
+"kao": [
+"kao/kaohsiung.wav"
 ],
 "mridm_bass": [
 "mridm_bass/K02Basyn120A-01.wav",
