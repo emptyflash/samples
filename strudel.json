@@ -1,7 +1,13 @@
 {
 "_base": "https://raw.githubusercontent.com/emptyflash/samples/main/",
+"boom": [
+"boom/vineboom.wav"
+],
 "doppler2": [
 "doppler2/Doppler2.wav"
+],
+"fontana": [
+"fontana/fontana.wav"
 ],
 "gamecube": [
 "gamecube/gamecube.wav"
